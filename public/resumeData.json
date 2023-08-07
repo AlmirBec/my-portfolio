@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Almir Bećirović",
+    "occupation": "Junior web developer",
+    "description": "I'm very enthusiastic person, constantly looking for new challenges and opportunities to learn and grow.",
+    "image": "profilna.jpg",
+    "bio": "As web developer my goal is to leave a positive mark on Bosnia and Herzegovina digital landscape. I primarily use Node.js for backend development, but I also have some experience with Django and Spring Boot. As of now I only used React for frontend development.",
+    "contactmessage": "If you have any questions or suggestions feel free to contact me.",
+    "email": "almircodeb@gmail.com",
+    "phone": "062/647-614",
+    "address": {
+      "city": "Sarajevo",
+      "state": "Bosnia and Herzegovina",
+      "zip": "71320"
+    },
+    "resumedownload": "CV-AlmirBećirović.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/almir-bećirović-95673225b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/almir.becirovic_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AlmirBec",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Languages and Frameworks I've worked with",
+    "education": [
+      {
+        "school": "University of Sarajevo",
+        "degree": "Information Technology",
+        "graduated": "Present",
+        "description": "Faculty of Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "AtlantBH",
+        "title": "Software Developer Intern",
+        "years": "April 2023 - May 2023",
+        "description": "Developing Auction app in Spring Boot and React"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Express.js"
+      },
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Spring Boot"
+      },
+      
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Django"
+      },
+      {
+        "name": "PostgreSQL"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Slido",
+        "category": "Communication platform for lecturers and audience",
+        "image": "slidoprojekt.png",
+        "url": "https://www.youtube.com/watch?v=V9lG11diUvQ"
+      },
+      {
+        "title": "Sportsmann",
+        "category": "App for making sporthall reservations",
+        "image": "sportmanapp.png",
+        "url": "https://www.youtube.com/watch?v=xYwqb6erJYo"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "portfolio.png",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Auction app",
+        "category": "Auction project",
+        "image": "auctionapp.jpg",
+        "url": "https://github.com/AlmirBec/AuctionApp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The best man is who has the most benefits for others",
+        "user": "Muhammad pbuh"
+      },
+      {
+        "text": "Almir's dedication to his craft is truly commendable. He approaches every challenge with a combination of creativity and analytical thinking. His problem-solving skills are remarkable and he never shies away from problems and issues. I have no doubt Almir will thrive in the world of programming and make significant contribution to any project he takes on.",
+        "user": "Harun Tucaković"
+      }
+    ]
+  }
+}
